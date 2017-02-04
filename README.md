@@ -1,1 +1,1 @@
-### placeholder website for DaisyGarden
+### Placeholder website for DaisyGarden

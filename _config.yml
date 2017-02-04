@@ -2,8 +2,8 @@
 name: Daisy Garden Center
 description: "WE'RE WORKING ON THE WEBSITE, MEANWHILE CHECK OUR GOOGLE+ AND YELP PAGES"
 title: Daisy Garden Center and Sculpture, New Jersey
-url: "https://saurabhbhatia.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/daisygarden" # the subpath of your site, e.g. /blog
+url: "https://daisygardensculpture.com/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
 
 # Delete the lines you don't need
 # about 5 elements are recomended
